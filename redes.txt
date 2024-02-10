@@ -78,7 +78,24 @@ INTERNET: Es una gran red global que conecta millones de dispositivos y redes en
 4) La tarjeta de interfaz de red NIC proporciona la conexion fisica con la red en la computadora personal u otro dispositivo host, el puerto fisico es un conector o toma en un dispositivo de red en el cual el medio se conecta con un host o con otro dispositivo de red. Una interfaz es un puerto especializado de un dispositivo de internetworking que se conecta con redes individuales.
 5)Un protocolo se considera independiente de la tecnología porque define un conjunto de reglas y estándares para la comunicación entre dispositivos, independientemente de cómo se implementen físicamente esos dispositivos o la tecnología subyacente que se utilice para transmitir los datos. un protocolo establece cómo deben comportarse los dispositivos durante la comunicación, pero no dicta cómo se deben construir esos dispositivos o qué tecnología específica se debe utilizar para la transmisión de datos.
 6)es una unidad de información que se transmite entre dispositivos en una red de acuerdo con un protocolo específico. Básicamente, es la cantidad de datos que se transfiere como una sola entidad en una red. La estructura y el formato de la PDU dependen del protocolo que se esté utilizando. Por ejemplo, en el modelo de referencia OSI, las PDUs varían según la capa del modelo OSI en la que se encuentren. 
+7)los protocolos en las comunicaciones de redes son como un conjunto de reglas que permiten que los dispositivos se comuniquen entre sí de manera efectiva. Estas reglas definen cómo se inician, mantienen y finalizan las comunicaciones, así como el formato y la estructura de los datos que se intercambian.
+8) 
+los modelos de protocolo explican cómo se comunican los dispositivos en una red, detallando los pasos específicos y los protocolos involucrados. Los modelos de referencia son como esquemas generales que ayudan a entender cómo funciona una red, dividiéndola en partes más simples y organizadas.
+9) 
+En el modelo TCP/IP, cada capa tiene una función específica en el proceso de comunicación de extremo a extremo:
 
+La capa de Aplicación representa datos para el usuario mas el control de codificacion y dialogo.
+La capa de Transporte controla la transferencia de datos entre dispositivos.
+La capa de Internet determina la mejor ruta através de la red.
+La capa de Acceso a la Red  controla los dispositivos del hardware y los medios que forman la red.
+
+En el modelo OSI, cada capa proporciona funciones y servicios específicos para facilitar la comunicación entre dispositivos:
+
+La capa de Aplicación proporciona medios para la conectividad de extremo a extremo entre individuos de la red humana que usan redes de datos.
+La capa de Presentación se encarga de la traducción y el formato de los datos.
+La capa de Sesión proporciona servicios a la capa de presentación para organizar su dialogo y administrar el intercambio de datos.
+La capa de Transporte define los servicios para segmentar, transferir y reensamblar los datos para las comunicaciones individuales entre dispositivos finales.
+La capa de Red proporciona servicios para intercambiar los datos individuales en la red entre dispositivos finales identificados.
 
 
  
