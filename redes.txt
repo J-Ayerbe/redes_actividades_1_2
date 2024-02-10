@@ -4,5 +4,63 @@ CAPITULO I
 2)La calidad de las comunicaciones se ve influenciada  tanto por factores internos(relacionados con la naturaleza del mensaje) como factores externos (relacionados con la complejidad de la red y el número
 de dispositivos que debe atravesar un mensaje para llegar al destino final)
 
-3)
+3)  Mensajes: Señala que todos los mensajes se convierten en bits antes de ser transmitidos a través de la red, sin importar su formato original.
+
+Dispositivos: Describe que diversos dispositivos, además de las computadoras, pueden enviar y recibir mensajes en una red, como teléfonos, cámaras, sistemas de música, etc.
+
+Medio: Explica que los mensajes se envían a través de una red local inalámbrica o con cables, como Ethernet, que permiten la conectividad entre dispositivos.
+
+Servicios: Menciona que existen programas de computación distribuidos en la red que facilitan la comunicación en línea, como correo electrónico, foros, salas de chat y mensajería instantánea.
+
+Las Reglas: Destaca la importancia de los protocolos o reglas en una red, especificando cómo se envían y reciben los mensajes, y mencionando ejemplos como XMPP, TCP e IP.
+
+4) a) los datos es informacion que se recopila y almacena
+   b)  Una red de datos es un sistema que permite la transferencia de informacion entre dispositivos y computadoras
+   c) se refiere a las tecnologías que
+admiten la infraestructura y a los servicios y protocolos programados que pueden trasladar los mensajes en toda esa
+infraestructura.	
+
+	d)  es una red que unifica diferentes tipos de tráfico de datos en una sola infraestructura
+
+5) a) es cuando en la red ocurre una falla y esta puede recuperarse rápidamente
+   b) una red escalable es donde esta se puede expandir para admitir mas usuarios  sin afectar el rendimiento del servicio
+c) la calidad del servicio es cuando el internet mantiene una conexion estable y no se cae
+d) la seguridad es la proteccion de acceso fisico al dispositivo de red evitando accesos no autorizados
+
+6) Redes orientadas a la conexión: Son como hacer una llamada telefónica, donde primero marcas el número, se establece la conexión y luego hablas. Es una conexión directa y continua hasta que se termina la comunicación.
+
+Redes no orientadas a la conexión: Son como enviar una carta por correo. No necesitas una conexión continua para enviarla; simplemente la pones en el buzón y llega a su destino. No hay un canal dedicado todo el tiempo. Cada mensaje se envía de manera independiente sin una conexión permanente.\
+
+7)  la calidad del servicio es cuando esta red posee un nivel bueno de tolerancia a fallas y escalibilidad para los usuarios. para manetener una buena calidad del servicio, la red debe poseer una buena arquitectura de red
+
+8) es importante porque afecta directamente la experiencia del usuario, una buena calidad de servicios hace que todo funcione sin problemas 
+
+
+9) Proveedores de Internet de Nivel-1 (Tier-1): Tienen una infraestructura global grande y directa, sin depender de otros proveedores. Cubren todo el mundo sin intermediarios.
+
+Proveedores de Internet de Nivel-2 (Tier-2): Tienen una infraestructura más pequeña y pueden depender de proveedores de Nivel-1 para acceder a partes de Internet. Su alcance puede ser más local o regional.
+
+Diferencias: Nivel-1 es más grande y global, mientras que Nivel-2 es más limitado. Nivel-1 tiene acuerdos directos con otros de su nivel, mientras que Nivel-2 puede necesitar conectarse a múltiples proveedores para acceder a Internet completo.
+
+10) Proveedores de Internet de Nivel-1 (Tier-1):
+
+AT&T
+Level 3 (ahora parte de CenturyLink)
+NTT Communications
+
+Proveedores de Internet de Nivel-2 (Tier-2):
+
+Cogent Communications
+GTT Communications
+
+Proveedores de Internet en Colombia:
+
+Telefónica Colombia (Movistar)
+UNE EPM Telecomunicaciones
+
+11) 
+Los proveedores de Internet de Nivel-1 y Nivel-2 son vitales para la conectividad global y la transmisión de datos en Internet. Conectan redes en todo el mundo, asegurando que la información viaje de manera eficiente y que Internet sea accesible globalmente. Además, su infraestructura robusta garantiza la resiliencia de la red, lo que significa que incluso en caso de fallos, la información puede seguir fluyendo sin interrupciones significativas.
+
+12) 
+Los proveedores de Internet son fundamentales para la conectividad global. Cómo se gestionan y regulan puede influir en quién tiene acceso y cómo se trata la información en línea. Por ejemplo, la regulación de la neutralidad de la red es crucial para garantizar un acceso equitativo
  
