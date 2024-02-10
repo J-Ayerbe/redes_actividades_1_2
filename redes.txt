@@ -63,4 +63,22 @@ Los proveedores de Internet de Nivel-1 y Nivel-2 son vitales para la conectivida
 
 12) 
 Los proveedores de Internet son fundamentales para la conectividad global. Cómo se gestionan y regulan puede influir en quién tiene acceso y cómo se trata la información en línea. Por ejemplo, la regulación de la neutralidad de la red es crucial para garantizar un acceso equitativo
+
+CAPITULO II
+1)una red es como una serie de caminos que conectan diferentes dispositivos para que se puedan comunicar entre si, la estructura basica de una red es:
+dispositivos : son aparatos que se conectan a la red para enviar y recibir información.
+medios de transmision: son los caminos por los que viajan los datos, pueden ser cables como Ethernet o conexiones inalambricas WIFI.
+servicios de red: Incluyen cosas como enrutadores que dirigen el trafico de datos, asi como protocolos y estandares que aseguran que los dispositivos puedan comunicarse entre si de manera efectiva
+2) RED: Es un conjunto de dispositivos conectados para comunicarse y compartir información.
+LAN (Red de Área Local): Es una red pequeña que conecta dispositivos en un área cercana, como una casa o una oficina.
+WAN (Red de Área Amplia): Es una red grande que conecta dispositivos en áreas distantes, como ciudades o países.
+INTERNETWORK: Es la conexión de varias redes, como LAN y WAN, para formar una red más grande.
+INTERNET: Es una gran red global que conecta millones de dispositivos y redes en todo el mundo para compartir información y recursos.
+3) Internetwork se refiere a la conexion de varias redes mas pequeñas para formar una red mas grande, mientras que internet se refiere especificamente a la red global mas grande que existe.
+4) La tarjeta de interfaz de red NIC proporciona la conexion fisica con la red en la computadora personal u otro dispositivo host, el puerto fisico es un conector o toma en un dispositivo de red en el cual el medio se conecta con un host o con otro dispositivo de red. Una interfaz es un puerto especializado de un dispositivo de internetworking que se conecta con redes individuales.
+5)Un protocolo se considera independiente de la tecnología porque define un conjunto de reglas y estándares para la comunicación entre dispositivos, independientemente de cómo se implementen físicamente esos dispositivos o la tecnología subyacente que se utilice para transmitir los datos. un protocolo establece cómo deben comportarse los dispositivos durante la comunicación, pero no dicta cómo se deben construir esos dispositivos o qué tecnología específica se debe utilizar para la transmisión de datos.
+6)es una unidad de información que se transmite entre dispositivos en una red de acuerdo con un protocolo específico. Básicamente, es la cantidad de datos que se transfiere como una sola entidad en una red. La estructura y el formato de la PDU dependen del protocolo que se esté utilizando. Por ejemplo, en el modelo de referencia OSI, las PDUs varían según la capa del modelo OSI en la que se encuentren. 
+
+
+
  
